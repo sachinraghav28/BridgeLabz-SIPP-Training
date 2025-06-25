@@ -7,6 +7,7 @@ public class Book {
         this.author = "Unknown";
         this.price = 0.0;
     }
+
     public Book(String title, String author, double price) {
         this.title = title;
         this.author = author;
