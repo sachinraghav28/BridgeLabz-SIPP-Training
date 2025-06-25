@@ -1,0 +1,50 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Virtual machine crash logs
+hs_err_pid*
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# IntelliJ project files
+.idea/
+*.iml
+*.iws
+out/
+
+# VS Code settings
+.vscode/
+
+# Maven output
+target/
+
+# Gradle output
+build/
+.gradle/
+
+# Environment files
+.env
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+gi
