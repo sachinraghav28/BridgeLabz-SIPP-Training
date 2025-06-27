@@ -7,6 +7,18 @@ public class Book {
         this.author = "Unknown";
         this.price = 0.0;
     }
+    
+    public String getAuthor() {
+        return author;
+    }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public double getPrice() {
+        return price;
+    }
 
     public Book(String title, String author, double price) {
         this.title = title;

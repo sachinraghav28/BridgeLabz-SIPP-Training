@@ -3,6 +3,15 @@ public class CarRental {
     private String carModel;
     private int rentalDays;
     private double dailyRate = 100.0; 
+
+    public String getCustomerName() {
+        return customerName;
+    }
+
+    public String getCarModel() {
+        return carModel;
+    }
+
     public CarRental() {
         this.customerName = "Unknown";
         this.carModel = "Standard";

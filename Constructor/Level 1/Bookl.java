@@ -21,5 +21,12 @@ public class Bookl {
             return false;
         }
     }
+    public String getAuthor() {
+        return author;
+    }
+
+    public double getPrice() {
+        return price;
+    }
 } 
     
